@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Lwazi Cele and I'm a front-end web developer, from Souh Africa</h2>
+<h2 align="left">Hi 👋! My name is Langalakhe and I'm a front-end web developer, from Souh Africa</h2>
 
 ###
 
