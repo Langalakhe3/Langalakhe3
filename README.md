@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Langalakhe — a front-end web developer from South Africa 🇿🇦.</h2>
+<h2 align="left">Hi 👋! I'm Lwazi — a front-end web developer from South Africa 🇿🇦.</h2>
 
 <p align="left">
 I build responsive, user-friendly websites using <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, and <strong>React</strong>. I'm passionate about clean code, beautiful design, and turning ideas into interactive digital experiences.
